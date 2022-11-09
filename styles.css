@@ -1,0 +1,23 @@
+body {
+  background-color: #012026;
+}
+
+h1, h2, h3 {
+  color: #00a941;
+} 
+
+p {
+  color: #449a86;
+}
+
+a {
+  color: #5d7e19 ;
+}
+
+li {
+  color: #449a86;
+}
+
+.active {
+  color: #00599d;
+}
