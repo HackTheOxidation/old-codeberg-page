@@ -1,23 +1,23 @@
 body {
-  background-color: #012026;
+  background-color: #1e1e2e;
 }
 
 h1, h2, h3 {
-  color: #00a941;
+  color: #a6e3a1;
 } 
 
 p {
-  color: #449a86;
+  color: #b4befe;
 }
 
 a {
-  color: #5d7e19 ;
+  color: #f9e2af;
 }
 
 li {
-  color: #449a86;
+  color: #cdd6f3;
 }
 
 .active {
-  color: #00599d;
+  color: #585b70;
 }
