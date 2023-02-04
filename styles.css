@@ -1,23 +1,29 @@
 body {
   background-color: #1e1e2e;
+  font-family: 'fira code', monospace;
 }
 
 h1, h2, h3 {
   color: #a6e3a1;
+  font-family: 'fira code', monospace;
 } 
 
 p {
   color: #b4befe;
+  font-family: 'fira code', monospace;
 }
 
 a {
   color: #f9e2af;
+  font-family: 'fira code', monospace;
 }
 
 li {
   color: #cdd6f3;
+  font-family: 'fira code', monospace;
 }
 
 .active {
   color: #585b70;
+  font-family: 'fira code', monospace;
 }

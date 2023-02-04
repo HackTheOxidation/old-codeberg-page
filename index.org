@@ -1,0 +1,109 @@
+#+TITLE: HackTheOxidation
+#+DESCRIPTION: HackTheOxidation's Codeberg pages
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css">
+#+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil ^:{}
+#+INCLUDE: "header.org"
+#+ATTR_HTML: :alt HackTheOxidation :title HackTheOxidation
+
+
+Greetings Traveller!
+
+
+Welcome to HackTheOxidation's Codeberg pages, a peaceful place in the vastness of cyberspace.
+
+I'm a software engineering student and free/open-source software enthusiast among other things.
+
+
+This site is still under construction at the moment (seriously, when are you ever done with a software project?).
+
+In the mean time, check out my projects:
+[[https://codeberg.org/HackTheOxidation][My Git repository on codeberg.org]]
+
+* Skills/Interests
+
+Most of the skills that I have acquired primarily come from University and (mostly) free-time hobby coding,
+but in spring of 2022 I got an internship working on a (quite large) python project, so now I also have real-world
+professional developer experience. Yay!
+
+** Operating Systems
+
+- Linux - I have tinkered with most of the main distros: Debian-/Ubuntu-based, Fedora/RHEL, Arch-based, Gentoo-based etc.
+  and some niche stuff: Artix, GNU Guix, Void Linux, etc. I am currently running Arch as my main distro.
+- BSD - I have also had my hands in some of the BSD-derivatives, mainly FreeBSD and OpenBSD.
+
+** Programming Languages
+
+- Python - My first internship was all about python (django, specifically),
+  which means that I have "Professional" python development experience.
+  The code I wrote for the 'os2datascanner' project during my internship is fully open source!
+  Check it out here: [[https://github.com/os2datascanner/os2datascanner][os2datascanner]]
+  Aside from that, I have used python in non-professional capacity as well,
+  mostly in the form of small scripts and config files, but now I am writing
+  bindings for my moonalloy project: [[https://codeberg.org/HackTheOxidation/python-moonalloy][python-moonalloy]].
+  In case your are familiar with the UniProt protein database, I wrote a CLI for fetching data: 
+  [[https://codeberg.org/HackTheOxidation/uniprot-cli][uniprot-cli]].
+- C - I have around 1.5 years under my belt from university and hobby coding.
+  I wrote a minimalist web-server for a project: [[https://codeberg.org/HackTheOxidation/ficus][ficus]]
+- C++ - I know advanced parts of the language from newer standards (C++17/20).
+  I wrote a small JSON-parser from scratch: [[https://codeberg.org/HackTheOxidation/picoJSON][picoJSON]].
+  And a library for parsing .INI-files: [[https://codeberg.org/HackTheOxidation/libini][libini]].
+- Haskell - This language is awesome! Being purely functional, it challenges the way you think and makes you a better programmer (I think).
+  I wrote a few of the challenges from Advent of Code 2021 in haskell: [[https://codeberg.org/HackTheOxidation/advent-of-code2021][advent-of-code2021]].
+- Rust - I have put a reasonable effort into learning it and it has quickly become one of my favorite programming languages.
+  I have written a small 'ls'-clone: [[https://crates.io/crates/neols][neols (crates.io)]].
+  I am also working on a numpy-like library written in rust with an API in Python and Lua (still in early development):
+  [[https://codeberg.org/HackTheOxidation/moonalloy][moonalloy]]
+- Go - I generally find Go to be a nice, minimalistic language.
+  I have done some tinkering with it and written (a very incomplete) cli-based http-client: [[https://codeberg.org/HackTheOxidation/twig][twig]].
+  I also began working on how to extract text from a PDF at work.
+- HTML, CSS - Used for making the previous version of this retro, non-bloated website.
+  Now, everything is written in the awesome [[https://orgmode.org][org mode]].
+- Emacs Lisp - It's just cool and retro and I can make my editor do anything with it.
+  I have contributed a few lines to [[https://github.com/Silex/docker.el][Silex/docker.el]].
+
+And there are some more languages, but I have an opinion about these:
+
+- JavaScript/TypeScript - I know enough to survive, but I don't really enjoy it...
+- C# - No. Just No...
+- Anything proprietary - Seriously, open source is the way to go.
+ 
+** Frameworks/Tools
+
+- git (of course)
+- django (full-stack, including django templates)
+- pytest and various other python packages
+- Docker
+- GitLab CI/CD
+- Databases - mostly PostgreSQL
+- gunicorn and uvicorn
+- RabbitMQ (through pika.py)
+- Grafana
+- Nginx
+
+** General Programming Concepts
+
+- Data Structures and Algorithms - I have some implementations in C/C++ from a previous course:
+  [[https://codeberg.org/HackTheOxidation/DOA"][Repository]]
+- Linux Kernel Modules and Operating System concepts.
+- Concurrency - Threads, Mutexes, Semaphores.
+- Object-Oriented Programming - Classes, Objects, Inheritance, Polymorphism, Interfaces, Design Patterns:
+  Observer, Singleton, Mediator etc.
+- Functional Programming - Typeclasses, Higher-order functions, Recursion etc.
+
+** Text Editors, IDE's and Other Tools
+
+- I used to be a serious vimmer, but these days I mostly use Emacs.
+  I still like vim and use it occasionally, so don't think I want to start a war.
+  You can get my dotfiles [[https://codeberg.org/HackTheOxidation/dotfiles][here]].
+
+** Currently Learning/Playing with
+
+- Functional programming with languages like Haskell, Lisp and [[https://leanprover.github.io/][lean4]]
+- Everything Python! Even though it is not my favorite language
+  the more I use it, the more I like it (I might be turning into a true Pythonista).
+- Learning how to write Assemblers, Compilers and Interpreters
+- The Foundations of Computer Science.
+
+
+BTW, The theme for this website is originally made by the awesome [[https://distro.tube/index.html][Derek Taylor aka. DistroTube]].

@@ -1,0 +1,14 @@
+#+DESCRIPTION: Header
+#+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil ^:{}
+
+#+begin_export html
+<div class="orgyeah-header">
+  <div class="topbar-menu-container">
+    <span class="topbar-menu"><a class="current" href="https://hacktheoxidation.codeberg.page">Home</a></span>
+    <span class="topbar-menu"><a href="https://codeberg.org/HackTheOxidation">Codeberg</a></span>
+    <span class="topbar-menu"><a href="https://crates.io/users/HackTheOxidation">Crates.io</a></span>
+    <span class="topbar-menu"><a href="https://pypi.org/user/HackTheOxidation">PyPI.org</a></span>
+  </div>
+</div>
+#+end_export
