@@ -34,6 +34,10 @@ professional developer experience. Yay!
 
 ** Programming Languages
 
+- C++ - I know advanced parts of the language from newer standards (C++17/20).
+  I wrote a small JSON-parser from scratch: [[https://codeberg.org/HackTheOxidation/picoJSON][picoJSON]].
+  And a library for parsing .INI-files: [[https://codeberg.org/HackTheOxidation/libini][libini]].
+  Most importantly, I actually like working with this language.
 - Python - My first internship was all about python (django, specifically),
   which means that I have "Professional" python development experience.
   The code I wrote for the 'os2datascanner' project during my internship is fully open source!
@@ -45,9 +49,6 @@ professional developer experience. Yay!
   [[https://codeberg.org/HackTheOxidation/uniprot-cli][uniprot-cli]].
 - C - I have around 1.5 years under my belt from university and hobby coding.
   I wrote a minimalist web-server for a project: [[https://codeberg.org/HackTheOxidation/ficus][ficus]]
-- C++ - I know advanced parts of the language from newer standards (C++17/20).
-  I wrote a small JSON-parser from scratch: [[https://codeberg.org/HackTheOxidation/picoJSON][picoJSON]].
-  And a library for parsing .INI-files: [[https://codeberg.org/HackTheOxidation/libini][libini]].
 - Haskell - This language is awesome! Being purely functional, it challenges the way you think and makes you a better programmer (I think).
   I wrote a few of the challenges from Advent of Code 2021 in haskell: [[https://codeberg.org/HackTheOxidation/advent-of-code2021][advent-of-code2021]].
 - Rust - I have put a reasonable effort into learning it and it has quickly become one of my favorite programming languages.
@@ -62,12 +63,6 @@ professional developer experience. Yay!
 - Emacs Lisp - It's just cool and retro and I can make my editor do anything with it.
   I have contributed a few lines to [[https://github.com/Silex/docker.el][Silex/docker.el]].
 
-And there are some more languages, but I have an opinion about these:
-
-- JavaScript/TypeScript - I know enough to survive, but I don't really enjoy it...
-- C# - No. Just No...
-- Anything proprietary - Seriously, open source is the way to go.
- 
 ** Frameworks/Tools
 
 - git (of course)
